@@ -1,0 +1,85 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 16 June 2021 1:09 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.4.1
+WORDPRESS:	5.7.2
+PHP INFO:	8.0.6 | SAPI: apache2handler
+SERVER:		Apache/2.4.47 (Win64) OpenSSL/1.1.1k PHP/8.0.6 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 6MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20210616_mangohill_96cc3cbfd0e115e23817_20210616010943_database.sql
+SQL FILE SIZE: 4.04MB (4237821)
+SQL FILE TIME: 2021-06-16 01:10:02
+SQL RUNTIME: 6.51 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/xampp/htdocs/mangohill
+ARCHIVE FILE: 20210616_mangohill_96cc3cbfd0e115e23817_20210616010943_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	170.46MB
+STATS:	Dirs 1,331 | Files 6,341
+SQL ADDED: 20210616_mangohill_96cc3cbfd0e115e23817_20210616010943_database.sql
+ZipArchive Object
+(
+    [lastId] => 7671
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 7672
+    [filename] => C:\xampp\htdocs\mangohill\wp-content\backups-dup-lite\tmp\20210616_mangohill_96cc3cbfd0e115e23817_20210616010943_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 7671
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 62.61MB
+ARCHIVE RUNTIME: 85.32 sec.
+MEMORY STACK: 8MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/xampp/htdocs/mangohill/wp-content/backups-dup-lite/tmp/20210616_mangohill_96cc3cbfd0e115e23817_20210616010943_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 4.04MB
+INSTALLER FILE: 64.14KB
+ARCHIVE FILE: 64MB 
+EXPECTED FILE/DIRECTORY COUNT: 7,672
+ACTUAL FILE/DIRECTORY COUNT: 7,671
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 92.78 sec.
+PEAK PHP MEMORY USED: 10MB
+DONE PROCESSING => 20210616_mangohill 16 June 2021 1:11 am
+

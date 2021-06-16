@@ -1,0 +1,991 @@
+# Translation of Themes - Ephemeris in English (Australia)
+# This file is distributed under the same license as the Themes - Ephemeris package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-27 08:46:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: en_AU\n"
+"Project-Id-Version: Themes - Ephemeris\n"
+
+#. Theme Name of the theme
+msgid "Ephemeris"
+msgstr "Ephemeris"
+
+#. Description of the theme
+msgid "The Ephemeris theme is a clean, fast and simple platform for creating beautiful, responsive custom WordPress themes. It's a simple starter theme built on HTML5 & CSS3. At its core is a fluid, responsive grid based on percentages, making for a flexible layout. It incorporates a set of common templates, support for WordPress Post Formats and the gorgeous, retina friendly Font Awesome icon font. Ephemeris is a true multi-purpose theme. With its extensive use of hooks, developers will find it a breeze to customise and extend. Ephemeris is WooCommerce and bbPress compatible, Multilingual Ready (WPML), translatable, and provides RTL language support. It's also compatible with a wide range of popular page builders such as Elementor, Divi Builder, Beaver Builder, SiteOrigin Page Builder and Visual Composer. On top of that, if Elementor is your Page Builder of choice, then you also get the ability to use your own custom header and footer templates that you've created with Elementor, rather than the default theme header and footer, if you so choose. Ephemeris also supports the new WordPress Block Editor (Gutenberg). Now that's pretty cool, eh!"
+msgstr "The Ephemeris theme is a clean, fast and simple platform for creating beautiful, responsive custom WordPress themes. It's a simple starter theme built on HTML5 & CSS3. At its core is a fluid, responsive grid based on percentages, making for a flexible layout. It incorporates a set of common templates, support for WordPress Post Formats and the gorgeous, retina friendly Font Awesome icon font. Ephemeris is a true multi-purpose theme. With its extensive use of hooks, developers will find it a breeze to customise and extend. Ephemeris is WooCommerce and bbPress compatible, Multilingual Ready (WPML), translatable, and provides RTL language support. It's also compatible with a wide range of popular page builders such as Elementor, Divi Builder, Beaver Builder, SiteOrigin Page Builder and Visual Composer. On top of that, if Elementor is your Page Builder of choice, then you also get the ability to use your own custom header and footer templates that you've created with Elementor, rather than the default theme header and footer, if you so choose. Ephemeris also supports the new WordPress Block Editor (Gutenberg). Now that's pretty cool, eh!"
+
+#: inc/customizer.php:647
+msgid "<i class=\"fab fa-patreon\"></i>"
+msgstr "<i class=\"fab fa-patreon\"></i>"
+
+#: inc/customizer.php:643
+msgid "<i class=\"fab fa-kickstarter-k\"></i>"
+msgstr "<i class=\"fab fa-kickstarter-k\"></i>"
+
+#: inc/customizer.php:634
+msgid "<i class=\"fab fa-discord\"></i>"
+msgstr "<i class=\"fab fa-discord\"></i>"
+
+#: functions.php:231
+msgid "H"
+msgstr "H"
+
+#: functions.php:230
+msgid "Huge"
+msgstr "Huge"
+
+#: functions.php:218
+msgid "Medium"
+msgstr "Medium"
+
+#: functions.php:213
+msgid "N"
+msgstr "N"
+
+#: functions.php:212
+msgid "Normal"
+msgstr "Normal"
+
+#: functions.php:768
+msgid "Appears in the sidebar on bbPress Forum pages only"
+msgstr "Appears in the sidebar on bbPress Forum pages only"
+
+#: functions.php:766
+msgid "bbPress Sidebar"
+msgstr "bbPress Sidebar"
+
+#: inc/customizer.php:147
+msgid "Template Defaults"
+msgstr "Template Defaults"
+
+#: inc/customizer.php:148
+msgid "Select the layout of the default template for the various content types on your site. After changing the template defaults, the correct Featured Image width will be calculated for all new images that are uploaded. For all your previously uploaded images, you should consider regenerating your thumbnails."
+msgstr "Select the layout of the default template for the various content types on your site. After changing the template defaults, the correct Featured Image width will be calculated for all new images that are uploaded. For all your previously uploaded images, you should consider regenerating your thumbnails."
+
+#: inc/customizer.php:493
+msgid "Select the default template layout for single Posts"
+msgstr "Select the default template layout for single Posts"
+
+#: inc/customizer.php:523
+msgid "Select the default template layout for Post Archives"
+msgstr "Select the default template layout for Post Archives"
+
+#: inc/customizer.php:463
+msgid "Select the default template layout for Pages"
+msgstr "Select the default template layout for Pages"
+
+#: functions.php:207
+msgid "S"
+msgstr "S"
+
+#. Template Name of the theme
+msgid "Right Sidebar Page"
+msgstr "Right Sidebar Page"
+
+#: inc/customizer.php:476 inc/customizer.php:506 inc/customizer.php:536
+msgid "Right Sidebar"
+msgstr "Right Sidebar"
+
+#: inc/customizer.php:492
+msgid "Post Default"
+msgstr "Post Default"
+
+#: inc/customizer.php:522
+msgid "Post Archive Default (i.e. Blog)"
+msgstr "Post Archive Default (i.e. Blog)"
+
+#: inc/customizer.php:462
+msgid "Page Default"
+msgstr "Page Default"
+
+#: inc/customizer.php:472 inc/customizer.php:502 inc/customizer.php:532
+msgid "No Sidebar"
+msgstr "No Sidebar"
+
+#: functions.php:219
+msgid "M"
+msgstr "M"
+
+#: inc/customizer.php:468 inc/customizer.php:498 inc/customizer.php:528
+msgid "Left Sidebar"
+msgstr "Left Sidebar"
+
+#: functions.php:225
+msgid "L"
+msgstr "L"
+
+#: inc/customizer.php:138
+msgid "Content Width"
+msgstr "Content Width"
+
+#: inc/customizer.php:65
+msgid "Adjust the overall layout for your site."
+msgstr "Adjust the overall layout for your site."
+
+#: functions.php:206
+msgid "Small"
+msgstr "Small"
+
+#: functions.php:224
+msgid "Large"
+msgstr "Large"
+
+#: inc/customizer.php:192
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/customizer.php:650
+msgid "<i class=\"fab fa-slack-hash\"></i>"
+msgstr "<i class=\"fab fa-slack-hash\"></i>"
+
+#: inc/customizer.php:652
+msgid "<i class=\"fab fa-snapchat-ghost\"></i>"
+msgstr "<i class=\"fab fa-snapchat-ghost\"></i>"
+
+#: inc/customizer.php:649
+msgid "<i class=\"fab fa-reddit-alien\"></i>"
+msgstr "<i class=\"fab fa-reddit-alien\"></i>"
+
+#: inc/customizer.php:1090
+msgid "You haven't ceated any Elementor Templates yet. You need to add a template to your Elementor Template Library if you wish to replace the default theme Header &amp; Footer."
+msgstr "You haven't ceated any Elementor Templates yet. You need to add a template to your Elementor Template Library if you wish to replace the default theme Header &amp; Footer."
+
+#: functions.php:1326
+msgid "WordPress"
+msgstr "WordPress"
+
+#: functions.php:753
+msgid "WooCommerce Sidebar"
+msgstr "WooCommerce Sidebar"
+
+#: inc/customizer.php:94
+msgid "WooCommerce Layout"
+msgstr "WooCommerce Layout"
+
+#: template-parts/author-bio.php:19 functions.php:1103
+msgid "Website"
+msgstr "Website"
+
+#: inc/customizer.php:674
+msgid "View list of available icons"
+msgstr "View list of available icons"
+
+#: template-parts/author-bio.php:33
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:1186
+msgid "View all posts by %s"
+msgstr "View all posts by %s"
+
+#: inc/customizer.php:1030
+msgid "Use default theme header"
+msgstr "Use default theme header"
+
+#: inc/customizer.php:1055
+msgid "Use default theme footer"
+msgstr "Use default theme footer"
+
+#: inc/customizer.php:184
+msgid "Update the content and style of the site footer. The Footer Content will be displayed just below the footer widgets."
+msgstr "Update the content and style of the site footer. The Footer Content will be displayed just below the footer widgets."
+
+#: 404.php:18
+msgid "Uh Oh! This is somewhat embarrassing!"
+msgstr "Uh Oh! This is somewhat embarrassing!"
+
+#: template-parts/author-bio.php:22
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer.php:939
+msgid "The Cart, Checkout and My Account pages are displayed using shortcodes. To remove the sidebar from these Pages, simply edit each Page and change the Template (in the Page Attributes Panel) to Full-width Page."
+msgstr "The Cart, Checkout and My Account pages are displayed using shortcodes. To remove the sidebar from these Pages, simply edit each Page and change the Template (in the Page Attributes Panel) to Full-width Page."
+
+#: inc/customizer.php:415
+msgid "Text Link Visited Color"
+msgstr "Text Link Visited Colour"
+
+#: inc/customizer.php:400
+msgid "Text Link Hover Color"
+msgstr "Text Link Hover Colour"
+
+#: inc/customizer.php:385
+msgid "Text Link Color"
+msgstr "Text Link Colour"
+
+#: inc/customizer.php:370
+msgid "Text Color "
+msgstr "Text Colour"
+
+#: inc/customizer.php:74
+msgid "Set the colors for your site."
+msgstr "Set the colours for your site."
+
+#: inc/customizer.php:109
+msgid "Set the colors for the main Headers that appear at the top of your Pages &amp; Posts."
+msgstr "Set the colours for the main Headers that appear at the top of your Pages &amp; Posts."
+
+#: inc/customizer.php:119
+msgid "Set the colors for any Headers that appear in the main body of your site."
+msgstr "Set the colours for any Headers that appear in the main body of your site."
+
+#: inc/customizer.php:820
+msgid "Select the font color for the footer."
+msgstr "Select the font colour for the footer."
+
+#: inc/customizer.php:129
+msgid "Select the color for the text that appears in the main body of your site."
+msgstr "Select the colour for the text that appears in the main body of your site."
+
+#: inc/customizer.php:793
+msgid "Select the background color for the footer."
+msgstr "Select the background colour for the footer."
+
+#: inc/customizer.php:291 inc/customizer.php:353
+msgid "Header Link Visited Color"
+msgstr "Header Link Visited Colour"
+
+#: inc/customizer.php:276 inc/customizer.php:338
+msgid "Header Link Hover Color"
+msgstr "Header Link Hover Colour"
+
+#: inc/customizer.php:261 inc/customizer.php:323
+msgid "Header Link Color"
+msgstr "Header Link Colour"
+
+#: inc/customizer.php:246 inc/customizer.php:308
+msgid "Header Color"
+msgstr "Header Colour"
+
+#: inc/customizer.php:819
+msgid "Footer Font Color"
+msgstr "Footer Font Colour"
+
+#: inc/customizer.php:846
+msgid "Footer Content"
+msgstr "Footer Content"
+
+#: inc/customizer.php:792
+msgid "Footer Background Color"
+msgstr "Footer Background Colour"
+
+#: inc/customizer.php:73
+msgid "Colors"
+msgstr "Colours"
+
+#. Template Name of the theme
+msgid "Left Sidebar Page"
+msgstr "Left Sidebar Page"
+
+#. Template Name of the theme
+msgid "Full-width Page"
+msgstr "Full-width Page"
+
+#. Template Name of the theme
+msgid "Page Builder Full-Width"
+msgstr "Page Builder Full-Width"
+
+#. Template Name of the theme
+msgid "Page Builder Blank"
+msgstr "Page Builder Blank"
+
+#: template-parts/no-results.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: template-parts/no-results.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: template-parts/no-results.php:12
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: template-parts/content.php:20
+msgid "Featured post"
+msgstr "Featured post"
+
+#: template-parts/content-audio.php:19 template-parts/content.php:30
+#: template-parts/content.php:39 template-parts/content-gallery.php:19
+#: template-parts/content-video.php:19
+msgid "Permalink to "
+msgstr "Permalink to "
+
+#: template-parts/content-status.php:34 template-parts/content-chat.php:35
+#: template-parts/content-audio.php:46 template-parts/content.php:79
+#: template-parts/content-gallery.php:44 template-parts/content-video.php:44
+#: template-parts/content-quote.php:38 template-parts/content-page.php:37
+#: template-parts/content-link.php:35 template-parts/content-image.php:35
+#: template-parts/content-aside.php:35
+msgid "Edit"
+msgstr "Edit"
+
+#: template-parts/content-status.php:22 template-parts/content-chat.php:23
+#: template-parts/content-audio.php:33 template-parts/content.php:66
+#: template-parts/content-gallery.php:32 template-parts/content-video.php:32
+#: template-parts/content-quote.php:26 template-parts/content-page.php:30
+#: template-parts/content-link.php:23 template-parts/content-image.php:23
+#: template-parts/content-aside.php:23
+msgid "Pages:"
+msgstr "Pages:"
+
+#: template-parts/author-bio.php:28
+msgid "Google+"
+msgstr "Google+"
+
+#: template-parts/author-bio.php:25
+msgid "Facebook"
+msgstr "Facebook"
+
+#: template-parts/author-bio.php:15
+msgid "About %s"
+msgstr "About %s"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: inc/customizer.php:1089
+msgid "Templates unavailable!"
+msgstr "Templates unavailable!"
+
+#: inc/customizer.php:1071
+msgid "Footer Template"
+msgstr "Footer Template"
+
+#: inc/customizer.php:1046
+msgid "Header Template"
+msgstr "Header Template"
+
+#: inc/customizer.php:1020
+msgid "By replacing the default theme header, you will also disable the themes default mobile menu so please ensure your template includes its own mobile navigation."
+msgstr "By replacing the default theme header, you will also disable the themes default mobile menu so please ensure your template includes its own mobile navigation."
+
+#: inc/customizer.php:1019
+msgid "Please Note:"
+msgstr "Please Note:"
+
+#: inc/customizer.php:982
+msgid "28 Products"
+msgstr "28 Products"
+
+#: inc/customizer.php:981
+msgid "24 Products"
+msgstr "24 Products"
+
+#: inc/customizer.php:980
+msgid "20 Products"
+msgstr "20 Products"
+
+#: inc/customizer.php:979
+msgid "16 Products"
+msgstr "16 Products"
+
+#: inc/customizer.php:978
+msgid "12 Products"
+msgstr "12 Products"
+
+#: inc/customizer.php:977
+msgid "8 Products"
+msgstr "8 Products"
+
+#: inc/customizer.php:976
+msgid "4 Products"
+msgstr "4 Products"
+
+#: inc/customizer.php:972
+msgid "Select the number of products to display on the shop page"
+msgstr "Select the number of products to display on the shop page"
+
+#: inc/customizer.php:971
+msgid "Shop Products"
+msgstr "Shop Products"
+
+#: inc/customizer.php:954
+msgid "Display breadcrumbs"
+msgstr "Display breadcrumbs"
+
+#: inc/customizer.php:938
+msgid "Cart, Checkout & My Account sidebars"
+msgstr "Cart, Checkout & My Account sidebars"
+
+#: inc/customizer.php:924
+msgid "Category & Tag sidebar"
+msgstr "Category & Tag sidebar"
+
+#: inc/customizer.php:909
+msgid "Single Product page sidebar"
+msgstr "Single Product page sidebar"
+
+#: inc/customizer.php:894
+msgid "Shop page sidebar"
+msgstr "Shop page sidebar"
+
+#: inc/customizer.php:874
+msgid "<code>&#37;currentyear&#37;</code> to insert the current year (auto updates)<br /><code>&#37;copy&#37;</code> to insert the Copyright symbol<br /><code>&#37;reg&#37;</code> to insert the Registered symbol<br /><code>&#37;trade&#37;</code> to insert the Trademark symbol"
+msgstr "<code>&#37;currentyear&#37;</code> to insert the current year (auto updates)<br /><code>&#37;copy&#37;</code> to insert the Copyright symbol<br /><code>&#37;reg&#37;</code> to insert the Registered symbol<br /><code>&#37;trade&#37;</code> to insert the Trademark symbol"
+
+#: inc/customizer.php:847
+msgid "Enter the text you&#8217;d like to display in the footer."
+msgstr "Enter the text you&#8217;d like to display in the footer."
+
+#: inc/customizer.php:772
+msgid "Display Search Icon"
+msgstr "Display Search Icon"
+
+#: inc/customizer.php:719
+msgid "Display phone number"
+msgstr "Display phone number"
+
+#: inc/customizer.php:690
+msgid "Display RSS icon"
+msgstr "Display RSS icon"
+
+#: inc/customizer.php:613
+msgid "Add Icon"
+msgstr "Add Icon"
+
+#: inc/customizer.php:610
+msgid "Add your social media links."
+msgstr "Add your social media links."
+
+#: inc/customizer.php:609
+msgid "Social URLs"
+msgstr "Social URLs"
+
+#: inc/customizer.php:586
+msgid "Right"
+msgstr "Right"
+
+#: inc/customizer.php:585
+msgid "Left"
+msgstr "Left"
+
+#: inc/customizer.php:582
+msgid "Choose the alignment for your social icons"
+msgstr "Choose the alignment for your social icons"
+
+#: inc/customizer.php:581
+msgid "Alignment"
+msgstr "Alignment"
+
+#: inc/customizer.php:558
+msgid "Open in new browser tab"
+msgstr "Open in new browser tab"
+
+#: inc/customizer.php:436
+msgid "Content Area Width (px)"
+msgstr "Content Area Width (px)"
+
+#: inc/customizer.php:209
+msgid "If you wish to replace the default theme Header &amp; Footer with your own custom Elementor templates, select them below. You have the option to replace just one, or you can replace both."
+msgstr "If you wish to replace the default theme Header &amp; Footer with your own custom Elementor templates, select them below. You have the option to replace just one, or you can replace both."
+
+#: inc/customizer.php:208
+msgid "Elementor"
+msgstr "Elementor"
+
+#: inc/customizer.php:198
+msgid "Adjust the layout of your WooCommerce shop."
+msgstr "Adjust the layout of your WooCommerce shop."
+
+#: inc/customizer.php:183
+msgid "Footer Layout"
+msgstr "Footer Layout"
+
+#: inc/customizer.php:174
+msgid "Search"
+msgstr "Search"
+
+#: inc/customizer.php:166
+msgid "Add your phone number to the site header bar."
+msgstr "Add your phone number to the site header bar."
+
+#: inc/customizer.php:165
+msgid "Contact"
+msgstr "Contact"
+
+#: inc/customizer.php:157
+msgid "Add your social media links and we'll automatically match them with the appropriate icons. Drag and drop the URLs to rearrange their order."
+msgstr "Add your social media links and we'll automatically match them with the appropriate icons. Drag and drop the URLs to rearrange their order."
+
+#: inc/customizer.php:156
+msgid "Social Icons"
+msgstr "Social Icons"
+
+#: inc/customizer.php:139
+msgid "Adjust the layout of your site. After adjusting the width, the correct Featured Image width will be calculated for all new images that are uploaded. For all your previously uploaded images, you should consider regenerating your thumbnails."
+msgstr "Adjust the layout of your site. After adjusting the width, the correct Featured Image width will be calculated for all new images that are uploaded. For all your previously uploaded images, you should consider regenerating your thumbnails."
+
+#: inc/customizer.php:64
+msgid "Site Layout"
+msgstr "Site Layout"
+
+#: inc/customizer.php:128
+msgid "Body Text"
+msgstr "Body Text"
+
+#: inc/customizer.php:118
+msgid "Body Headers"
+msgstr "Body Headers"
+
+#: inc/customizer.php:108
+msgid "Page &amp; Post Headers"
+msgstr "Page &amp; Post Headers"
+
+#: inc/customizer.php:83
+msgid "Adjust your Header and Navigation sections."
+msgstr "Adjust your Header and Navigation sections."
+
+#: inc/customizer.php:82
+msgid "Header & Navigation"
+msgstr "Header & Navigation"
+
+#: inc/custom-controls.php:720 inc/custom-controls.php:738
+msgid "Not Available for this font"
+msgstr "Not Available for this font"
+
+#: inc/custom-controls.php:358
+msgid "Add"
+msgstr "Add"
+
+#: header.php:33
+msgid "Skip to main content"
+msgstr "Skip to main content"
+
+#: functions.php:1759
+msgid "Subscribe to my RSS feed"
+msgstr "Subscribe to my RSS feed"
+
+#: functions.php:1328 functions.php:1329
+msgid "Skyrocket Themes"
+msgstr "Skyrocket Themes"
+
+#: functions.php:1327
+msgid "http://skyrocketthemes.com"
+msgstr "http://skyrocketthemes.com"
+
+#: functions.php:1325
+msgid "Semantic Personal Publishing Platform"
+msgstr "Semantic Personal Publishing Platform"
+
+#: functions.php:1324
+msgid "http://wordpress.org"
+msgstr "http://wordpress.org"
+
+#: functions.php:1323
+msgid "Proudly powered by"
+msgstr "Proudly powered by"
+
+#: template-parts/content-status.php:18 template-parts/content-chat.php:18
+#: template-parts/content-audio.php:28 template-parts/content.php:56
+#: template-parts/content.php:60 template-parts/content-gallery.php:27
+#: template-parts/content-video.php:27 template-parts/content-quote.php:19
+#: template-parts/content-link.php:18 template-parts/content-image.php:18
+#: template-parts/content-aside.php:18 functions.php:1288
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:1288
+msgid "Continue reading"
+msgstr "Continue reading"
+
+#. Translators: 1: Date 2: Author 3: Categories 4: Comments
+#: functions.php:1201
+msgid "<div class=\"header-meta\">%1$s%2$s<span class=\"post-categories\">%3$s</span>%4$s</div>"
+msgstr "<div class=\"header-meta\">%1$s%2$s<span class=\"post-categories\">%3$s</span>%4$s</div>"
+
+#: functions.php:1197
+msgid "No Comments"
+msgstr "No Comments"
+
+#: functions.php:1197
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Comment"
+msgstr[1] "%1$s Comments"
+
+#: functions.php:1196
+msgid "Comment on "
+msgstr "Comment on "
+
+#: functions.php:1178
+msgid "Posted %1$s @ %2$s"
+msgstr "Posted %1$s @ %2$s"
+
+#: functions.php:1123
+msgctxt "noun"
+msgid "Comment"
+msgstr "Comment"
+
+#: functions.php:1101
+msgid "Email"
+msgstr "Email"
+
+#: functions.php:1099
+msgid "Name"
+msgstr "Name"
+
+#: functions.php:1078 functions.php:1596
+msgid "Next"
+msgstr "Next"
+
+#: functions.php:1077 functions.php:1595
+msgid "Previous"
+msgstr "Previous"
+
+#: functions.php:1046
+msgid "Posts navigation"
+msgstr "Posts navigation"
+
+#: functions.php:813
+msgid "Appears in the footer in column 4"
+msgstr "Appears in the footer in column 4"
+
+#: functions.php:811
+msgid "Footer Widget 4"
+msgstr "Footer Widget 4"
+
+#: functions.php:802
+msgid "Appears in the footer in column 3"
+msgstr "Appears in the footer in column 3"
+
+#: functions.php:800
+msgid "Footer Widget 3"
+msgstr "Footer Widget 3"
+
+#: functions.php:791
+msgid "Appears in the footer in column 2"
+msgstr "Appears in the footer in column 2"
+
+#: functions.php:789
+msgid "Footer Widget 2"
+msgstr "Footer Widget 2"
+
+#: functions.php:780
+msgid "Appears in the footer in column 1"
+msgstr "Appears in the footer in column 1"
+
+#: functions.php:778
+msgid "Footer Widget 1"
+msgstr "Footer Widget 1"
+
+#: functions.php:755
+msgid "Appears in the sidebar on WooCommerce pages only"
+msgstr "Appears in the sidebar on WooCommerce pages only"
+
+#: functions.php:743
+msgid "Appears in the sidebar on pages only"
+msgstr "Appears in the sidebar on pages only"
+
+#: functions.php:741
+msgid "Page Sidebar"
+msgstr "Page Sidebar"
+
+#: functions.php:732
+msgid "Appears in the sidebar on single posts only"
+msgstr "Appears in the sidebar on single posts only"
+
+#: functions.php:730
+msgid "Single Post Sidebar"
+msgstr "Single Post Sidebar"
+
+#: functions.php:721
+msgid "Appears in the sidebar on the blog and archive pages only"
+msgstr "Appears in the sidebar on the blog and archive pages only"
+
+#: functions.php:719
+msgid "Blog Sidebar"
+msgstr "Blog Sidebar"
+
+#: functions.php:710
+msgid "Appears in the sidebar on all posts and pages"
+msgstr "Appears in the sidebar on all posts and pages"
+
+#: functions.php:708
+msgid "Main Sidebar"
+msgstr "Main Sidebar"
+
+#. translators: If there are characters in your language that are not supported
+#. by Dosis, translate this to 'off'. * Do not translate into your own
+#. language.
+#: functions.php:675
+msgctxt "Dosis font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. * Do
+#. not translate into your own language.
+#: functions.php:666
+msgctxt "Open Sans font: add new subset (cyrillic)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. * Do not translate into your own
+#. language.
+#: functions.php:661
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:545
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: functions.php:328
+msgid "Please add a comment"
+msgstr "Please add a comment"
+
+#: functions.php:327
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+#: functions.php:326
+msgid "Please enter your name"
+msgstr "Please enter your name"
+
+#: functions.php:62
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: footer.php:48
+msgid "Navigation"
+msgstr "Navigation"
+
+#: footer.php:41
+msgid "MENU"
+msgstr "MENU"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:63
+msgid "Newer Comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: comments.php:62
+msgid "&larr; Older Comments"
+msgstr "&larr; Older Comments"
+
+#: comments.php:61
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:54
+msgid "Reply"
+msgstr "Reply"
+
+#: comments.php:34
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Replies to &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:30
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "One Reply to &ldquo;%s&rdquo;"
+
+#: template-parts/no-results.php:30 404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: inc/customizer.php:175
+msgid "Add a search icon to your primary navigation menu."
+msgstr "Add a search icon to your primary navigation menu."
+
+#: functions.php:1593
+msgctxt "WooCommerce next page link icon classes"
+msgid "fas fa-angle-right"
+msgstr "fas fa-angle-right"
+
+#: functions.php:1049
+msgctxt "Next post link icon classes"
+msgid "fas fa-angle-left"
+msgstr "fas fa-angle-left"
+
+#: functions.php:1592
+msgctxt "WooCommerce previous page link icon classes"
+msgid "fas fa-angle-right"
+msgstr "fas fa-angle-right"
+
+#: functions.php:1072
+msgctxt "Next page link icon classes"
+msgid "fas fa-angle-right"
+msgstr "fas fa-angle-right"
+
+#: functions.php:1071
+msgctxt "Previous page link icon classes"
+msgid "fas fa-angle-right"
+msgstr "fas fa-angle-right"
+
+#: functions.php:1049
+msgctxt "Next post link icon classes"
+msgid "fas fa-angle-right"
+msgstr "fas fa-angle-right"
+
+#: functions.php:1048
+msgctxt "Previous post link icon classes"
+msgid "fas fa-angle-right"
+msgstr "fas fa-angle-right"
+
+#: functions.php:1593
+msgctxt "WooCommerce next page link icon classes"
+msgid "fas fa-angle-left"
+msgstr "fas fa-angle-left"
+
+#: functions.php:1592
+msgctxt "WooCommerce previous page link icon classes"
+msgid "fas fa-angle-left"
+msgstr "fas fa-angle-left"
+
+#: functions.php:1072
+msgctxt "Next page link icon classes"
+msgid "fas fa-angle-left"
+msgstr "fas fa-angle-left"
+
+#: functions.php:1071
+msgctxt "Previous page link icon classes"
+msgid "fas fa-angle-left"
+msgstr "fas fa-angle-left"
+
+#: functions.php:1048
+msgctxt "Previous post link icon classes"
+msgid "fas fa-angle-left"
+msgstr "fas fa-angle-left"
+
+#. Translators: 1: Tag list
+#: functions.php:1232
+msgid "<i class=\"fas fa-tag\" aria-hidden=\"true\"></i> %1$s"
+msgstr "<i class=\"fas fa-tag\" aria-hidden=\"true\"></i> %1$s"
+
+#: inc/customizer.php:663
+msgid "<i class=\"fab fa-youtube\"></i>"
+msgstr "<i class=\"fab fa-youtube\"></i>"
+
+#: inc/customizer.php:661
+msgid "<i class=\"fab fa-vimeo-v\"></i>"
+msgstr "<i class=\"fab fa-vimeo-v\"></i>"
+
+#: inc/customizer.php:659
+msgid "<i class=\"fab fa-twitter\"></i>"
+msgstr "<i class=\"fab fa-twitter\"></i>"
+
+#: inc/customizer.php:658
+msgid "<i class=\"fab fa-twitch\"></i>"
+msgstr "<i class=\"fab fa-twitch\"></i>"
+
+#: inc/customizer.php:657
+msgid "<i class=\"fab fa-tumblr\"></i>"
+msgstr "<i class=\"fab fa-tumblr\"></i>"
+
+#: inc/customizer.php:655
+msgid "<i class=\"fab fa-stack-overflow\"></i>"
+msgstr "<i class=\"fab fa-stack-overflow\"></i>"
+
+#: inc/customizer.php:654
+msgid "<i class=\"fab fa-spotify\"></i>"
+msgstr "<i class=\"fab fa-spotify\"></i>"
+
+#: inc/customizer.php:653
+msgid "<i class=\"fab fa-soundcloud\"></i>"
+msgstr "<i class=\"fab fa-soundcloud\"></i>"
+
+#: inc/customizer.php:651
+msgid "<i class=\"fab fa-slideshare\"></i>"
+msgstr "<i class=\"fab fa-slideshare\"></i>"
+
+#: inc/customizer.php:648
+msgid "<i class=\"fab fa-pinterest-p\"></i>"
+msgstr "<i class=\"fab fa-pinterest-p\"></i>"
+
+#: inc/customizer.php:646
+msgid "<i class=\"fab fa-medium-m\"></i>"
+msgstr "<i class=\"fab fa-medium-m\"></i>"
+
+#: inc/customizer.php:645
+msgid "<i class=\"fab fa-linkedin-in\"></i>"
+msgstr "<i class=\"fab fa-linkedin-in\"></i>"
+
+#: inc/customizer.php:644
+msgid "<i class=\"fab fa-lastfm\"></i>"
+msgstr "<i class=\"fab fa-lastfm\"></i>"
+
+#: inc/customizer.php:642
+msgid "<i class=\"fab fa-instagram\"></i>"
+msgstr "<i class=\"fab fa-instagram\"></i>"
+
+#: inc/customizer.php:641
+msgid "<i class=\"fab fa-google-plus-g\"></i>"
+msgstr "<i class=\"fab fa-google-plus-g\"></i>"
+
+#: inc/customizer.php:640
+msgid "<i class=\"fab fa-github\"></i>"
+msgstr "<i class=\"fab fa-github\"></i>"
+
+#: inc/customizer.php:639
+msgid "<i class=\"fab fa-foursquare\"></i>"
+msgstr "<i class=\"fab fa-foursquare\"></i>"
+
+#: inc/customizer.php:638
+msgid "<i class=\"fab fa-flickr\"></i>"
+msgstr "<i class=\"fab fa-flickr\"></i>"
+
+#: inc/customizer.php:637
+msgid "<i class=\"fab fa-facebook-f\"></i>"
+msgstr "<i class=\"fab fa-facebook-f\"></i>"
+
+#: inc/customizer.php:636
+msgid "<i class=\"fab fa-etsy\"></i>"
+msgstr "<i class=\"fab fa-etsy\"></i>"
+
+#: inc/customizer.php:635
+msgid "<i class=\"fab fa-dribbble\"></i>"
+msgstr "<i class=\"fab fa-dribbble\"></i>"
+
+#: inc/customizer.php:633
+msgid "<i class=\"fab fa-deviantart\"></i>"
+msgstr "<i class=\"fab fa-deviantart\"></i>"
+
+#: inc/customizer.php:632
+msgid "<i class=\"fab fa-codepen\"></i>"
+msgstr "<i class=\"fab fa-codepen\"></i>"
+
+#: inc/customizer.php:631
+msgid "<i class=\"fab fa-bitbucket\"></i>"
+msgstr "<i class=\"fab fa-bitbucket\"></i>"
+
+#: inc/customizer.php:630
+msgid "<i class=\"fab fa-behance\"></i>"
+msgstr "<i class=\"fab fa-behance\"></i>"
+
+#: searchform.php:4
+msgid "Search&hellip;"
+msgstr "Search&hellip;"
+
+#: inc/customizer.php:662
+msgid "<i class=\"fab fa-weibo\"></i>"
+msgstr "<i class=\"fab fa-weibo\"></i>"
+
+#. Author of the theme
+msgid "ahortin"
+msgstr "ahortin"
+
+#. Theme URI of the theme
+msgid "https://skyrocketthemes.com/themes/ephemeris-wordpress-theme"
+msgstr "https://skyrocketthemes.com/themes/ephemeris-wordpress-theme"
+
+#. Author URI of the theme
+msgid "https://maddisondesigns.com"
+msgstr "https://maddisondesigns.com"
